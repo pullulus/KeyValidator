@@ -6,8 +6,8 @@ August 15 11:55 - August 15 12:02 было проведено функциона
 На тестирование затрачено: 0,12 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Невалиден код, указанный как валидный (80b427f8-92cd-3aae-ba04-3927fbe17c6; 387eedc6-12e9-3b32-9881-63b6b5e85317)](https://github.com/pullulus/KeyValidator/issues/1)
-* [Валиден код, указанный как невалидный (2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1)](https://github.com/pullulus/KeyValidator/issues/2)
+* [Невалиден код, указанный как валидный](https://github.com/pullulus/KeyValidator/issues/1)
+* [Валиден код, указанный как невалидный](https://github.com/pullulus/KeyValidator/issues/2)
 
 
 ## Описание процесса тестирования
